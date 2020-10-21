@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Content generated using [this getting started](https://guides.github.com/features/pages/).
+
 You can use the [editor on GitHub](https://github.com/lulis/lulis.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
